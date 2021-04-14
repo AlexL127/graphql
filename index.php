@@ -2,7 +2,7 @@
 
 require('vendor/autoload.php');
 
-use App\Models\Empleado;
+//use App\Models\Empleado;
 use Illuminate\Database\Capsule\Manager as Capsule;
 
 

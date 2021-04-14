@@ -4,7 +4,7 @@ use GraphQL\Type\Definition\ObjectType;
 use GraphQL\Type\Definition\Type;
 
 $empleado_type = new ObjectType([
-    'name' => 'Empleado',
+    'name' => 'empleado',
     'description' => 'Tipo de dato Empleado',
     'fields' => [
         'id_empleado' => Type::int(),
